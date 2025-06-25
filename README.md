@@ -8,6 +8,7 @@
 - [Project Objective](#ProjectObjective)
 - [Data Cleaning](#DataCleaning)
 - [Insights and Analysis](#InsightsandAnalysis)
+- [Dashboard](Dashboard)
 - [Conclusion](Conclusion)
 - [Recommendations](#Recommendations)
 
@@ -93,6 +94,9 @@ December stands out as the month with the highest engagement, possibly due to se
 Analysis of the review text reveals that customers primarily commented on the product itself rather than the market or platform from which it was purchased.
  Most feedback centered around the performance, features, and quality of the phone, indicating that product experience was the main driver of customer sentiment,
 not the buying environment or service provider.
+
+## Dashboard
+<img width="601" alt="Sentiments Dashboard" src="https://github.com/user-attachments/assets/840199f7-df94-4d96-b5a7-5bbf728bf423" />
 
 ## Conclusion
 
